@@ -13,16 +13,16 @@ This is about how async and await works and a sample demo about Sphero mini
  <li>love to watch football</li>
 
 ### Sandeep Devineni (about await function and usage of async and await)
-<li> MS in ACS<li>
-<li>watching Cricket<li>
-<li>I like to travel a lot<li> 
+<li> MS in ACS</li>
+<li>watching Cricket</li>
+<li>I like to travel a lot</li> 
 
 ### Daiwei Chen
 * Keyboard tapper and professional rubber ducky.
 
 ### Lohitha Bhethalam (about sphero)
-<li> MS in ACS<li>
-<li>I'd love to work as web developer in future.<li>
+<li> MS in ACS</li>
+<li>I'd love to work as web developer in future.</li>
 
 ### Divyaharshini Bheemireddy ( about async and promise)
 <li> MS in ACS</li>
