@@ -1,0 +1,44 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Nov 18 16:03:34 2018
+;; Desktop file format version 208
+;; Emacs version 26.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23537 57782 192061 8000) (desktop . "208") "davec@dualacer" nil nil ((((minibuffer . t) (undecorated) (override-redirect) (font-backend xft x) (font . "-ADBO-Source Code Pro for Powerline-semibold-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Source Code Pro for Powerline Semi-Bold 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-special-glyphs) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (inhibit-double-buffering) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (no-focus-on-map) (no-accept-focus) (fullscreen) (visibility . t) (skip-taskbar) (z-group) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (sticky) (environment) (frameset--id . "D54C-4AEB-39DF-6D39") (frameset--mini t . t) (height . 36) (width . 80) (modeline . t) (unsplittable) (left . 140) (top . 171) (icon-name) (display . ":0") (explicit-name)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 90) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 36) (min-pixel-height-safe . 20) (min-pixel-width-safe . 18)) leaf (pixel-width . 736) (pixel-height . 700) (total-width . 81) (total-height . 35) (normal-height . 1.0) (normal-width . 1.0) (buffer "package.json" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history nil)
+(setq face-name-history nil)
+(setq file-name-history '("/home/davec/Dropbox/Programming/Github/JavaScriptSandbox/AsyncAwait/" "~/Dropbox/Programming/Github/JavaScriptSandbox/AsyncAwait/package.json" "~/.emacs.d/custom.el" "/home/davec/Dropbox/Programming/Contest/NCL/2018Fall/post/enum-exp/instructions/exploit.py" "/home/davec/Dropbox/Programming/Contest/NCL/2018Fall/post/enum-exp/instructions/instructions-objdump.dump" "/home/davec/Dropbox/Programming/Contest/NCL/2018Fall/post/enum-exp/instructions/exploit.py" "/home/davec/Dropbox/Programming/Contest/NCL/2018Fall/post/enum-exp/instructions-objdump.dump" "/home/davec/Dropbox/Programming/Contest/NCL/2018Fall/post/enum-exp/instructions-string-out.txt" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "/tmp/yaourt-tmp-davec/aur-jd-gui/PKGBUILD" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "/tmp/yaourt-tmp-davec/aur-alsi/PKGBUILD" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "/tmp/yaourt-tmp-davec/aur-pycharm-professional/pycharm-professional.install" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "/tmp/yaourt-tmp-davec/aur-postman-bin/PKGBUILD" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "/tmp/yaourt-tmp-davec/aur-perl-cpanel-json-xs/PKGBUILD" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "/etc/lightdm/lightdm-gtk-greeter.conf" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.xscreensaver" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/Dropbox/Programming/Github/practice_ground/leetcode/twosum/twosum.cpp" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "/tmp/yaourt-tmp-davec/aur-openvpn-nordvpn/openvpn-nordvpn.install" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "/tmp/yaourt-tmp-davec/aur-openvpn-nordvpn/PKGBUILD" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "/tmp/yaourt-tmp-davec/aur-nordnm/PKGBUILD" "~/.emacs.d/custom.el" "~/.zshrc" "~/dropbox.py" "~/.emacs.d/custom.el" "~/.zshrc" "~/.emacs.d/custom.el" "~/Git_Stuffs/TrendingSimulator/.git/MERGE_MSG" "~/.emacs.d/custom.el" "/tmp/yaourt-tmp-davec/aur-postman-bin/PKGBUILD" "/tmp/yaourt-tmp-davec/aur-libbonobo/libbonobo.install" "/tmp/yaourt-tmp-davec/aur-pycharm-professional/PKGBUILD" "/tmp/yaourt-tmp-davec/aur-openvpn-update-resolv-conf-git/PKGBUILD"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ivy-history '("instructions-objdump.dump" "exploit.py"))
+(setq minibuffer-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring '("main" "data"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/davec/Dropbox/Programming/Github/JavaScriptSandbox/AsyncAwait/package.json"
+  "package.json"
+  'json-mode
+  '(inferior-js-keys-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode undo-tree-mode beacon-mode global-auto-revert-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-display-time 23537 57776 167289 106000) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
